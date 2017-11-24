@@ -16,4 +16,3 @@
 * La forma y tamaño de como se muestran los videos en la lista de reproducciones
 * Los colores de letras
 * El boton del play
-# youTube-UX-UI
